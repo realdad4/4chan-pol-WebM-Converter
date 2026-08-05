@@ -13,7 +13,7 @@ Convert videos into 4chan /pol/-compatible VP9 WebM files directly from the Wind
 
 ![Settings](screenshots/settings.png)
 
-## Conversion
+## Live Conversion
 
 ![Conversion](screenshots/conversion.png)
 
