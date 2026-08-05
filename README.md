@@ -18,6 +18,14 @@ Convert videos into /pol/-compatible WebM files directly from the Windows Explor
 
 A Windows utility that converts videos into `/pol/`-compatible WebM files.
 
+## Quick Start
+
+1. Download the latest release.
+2. Run `Install.bat`.
+3. Put `ffmpeg.exe` and `ffprobe.exe` beside the application (or install FFmpeg).
+4. Right-click a video.
+5. Select **4chan /pol/ WebM Converter**.
+
 ## Limits
 
 - WebM output
