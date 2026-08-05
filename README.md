@@ -4,7 +4,8 @@
 ![License](https://img.shields.io/github/license/realdad4/4chan-pol-WebM-Converter)
 ![Release](https://img.shields.io/github/v/release/realdad4/4chan-pol-WebM-Converter)
 
-Convert videos into /pol/-compatible WebM files directly from the Windows Explorer context menu.
+Convert videos into 4chan /pol/-compatible VP9 WebM files directly from the Windows Explorer context menu.
+
 
 ![Context Menu](screenshots/context-menu.png)
 
