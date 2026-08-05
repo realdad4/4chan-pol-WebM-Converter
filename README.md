@@ -1,5 +1,17 @@
 # 4chan /pol/ WebM Converter
 
+Convert videos into /pol/-compatible WebM files directly from the Windows Explorer context menu.
+
+![Context Menu](screenshots/context-menu.png)
+
+## Settings
+
+![Settings](screenshots/settings.png)
+
+## Conversion
+
+![Conversion](screenshots/conversion.png)
+
 A Windows utility that converts videos into `/pol/`-compatible WebM files.
 
 ## Limits
